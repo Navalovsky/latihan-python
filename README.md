@@ -62,3 +62,6 @@ plt.show()
 # ==========================================
 # Akhir Program
 # ==========================================
+![Grafik Rata-Rata Nilai](<img width="792" height="680" alt="diagram_siswa" src="https://github.com/user-attachments/assets/7dc9a666-9212-4b6f-adaf-cfdc168e4eb3" />
+)
+
